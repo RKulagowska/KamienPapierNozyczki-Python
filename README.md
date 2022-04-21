@@ -1,39 +1,39 @@
 # KamienPapierNozyczki-Python
 Pierwsze podejście do Python inspirowane bootcampem 
 
-##Table of Contents
-*General Info
-*Technologies Used
-*Features
-*Screenshots
-*Setup
-*Usage
-*Project Status
-*Room for Improvement
-*Acknowledgements
-*Contact
+## Table of Contents
+* General Info
+* Technologies Used
+* Features
+* Screenshots
+* Setup
+* Usage
+* Project Status
+* Room for Improvement
+* Acknowledgements
+* Contact
 
-###General Information
+### General Information
 Bootcamp project. Task to create game : Papier / Nożyczki / Kamień. Game with computer 
 
-###Technologies Used
+### Technologies Used
 Python
 
-###Features
+### Features
 
-###Screenshots
+### Screenshots
 
-###Setup
+### Setup
 
-###Usage
+### Usage
 
-###Project Status
+### Project Status
 Project is: complete.
 
-###Room for Improvement
+### Room for Improvement
 
-###Acknowledgements
+### Acknowledgements
 This project was inspired by Bootcamp.
 
-###Contact
+### Contact
 Created by @RenataKulagowska
